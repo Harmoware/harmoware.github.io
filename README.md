@@ -1,5 +1,11 @@
 # harmoware.github.io
 WebPage
 
-http://harmoware.github.io/
+#English Web site:
+ https://harmoware.netlify.com/
+
+
+#日本語ページ
+ https://harmoware-jp.netlify.com/
+
 
